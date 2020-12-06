@@ -1255,6 +1255,12 @@ input[type="radio"] + label:before {
     float:right;}
     .image.main img {
       width: 100%; }
+      .image-resume{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
 
 a.image {
   overflow: hidden; }
@@ -2284,4 +2290,6 @@ button,
     margin-top: 0;
     padding-top: 0; }
 
-   
+   .resume {
+
+   }
